@@ -1,0 +1,1 @@
+docker run --rm --name=api-heat-node -p 4000:4000 api-heat-node
